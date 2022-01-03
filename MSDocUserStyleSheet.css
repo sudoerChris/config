@@ -1,0 +1,30 @@
+.feedback-verbatim{
+  display:none
+}
+
+.hero .hero-body, .uhf-container:not(.has-padding) {
+    max-width: 100%;
+    width: 100%;
+}
+h1:not(a):not(pre)>code,h2:not(a):not(pre)>code{
+  background-color: cadetblue
+}
+.is-hidden-mobile{
+  display:none;
+}
+.column.is-one-quarter-desktop {
+    flex: none;
+    width: 20%;
+}
+#affixed-left-container {
+  width: inherit !important;
+  padding:5px;
+}
+.column.is-8-desktop {
+    flex: none;
+    width: 81.6666666667%;
+}
+.column.is-4-desktop {
+    flex: none;
+    width: 23.3333333333%;
+}
